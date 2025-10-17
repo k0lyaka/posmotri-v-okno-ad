@@ -265,6 +265,7 @@ ol {
   color: var(--fg);
   font: 700 18px "Fira Sans Condensed", sans-serif;
   align-content: center;
+
   transition: background-color 0.15s ease, text-decoration-color 0.15s ease,
     opacity 0.15s ease;
 }
